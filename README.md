@@ -1,2 +1,2 @@
 # Notebook_Simple
-A simple notebook program developed by qt5.
+A simple notebook program that developed by qt5.
